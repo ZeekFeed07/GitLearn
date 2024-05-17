@@ -3,6 +3,7 @@
 void All()
 {
     std::cout << "All";
+    std::cout << "B branch";
 }
 
 int main()
