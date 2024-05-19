@@ -3,6 +3,9 @@
 void All()
 {
     std::cout << "All";
+    std::cout << "B branch";
+
+    std::cout << "Yusuf branch";
 }
 
 int main()
