@@ -1,14 +1,13 @@
 #include <iostream>
 
-void All()
+void GetBranch()
 {
-    std::cout << "All";
-    std::cout << "A branch";
-
-    std::cout << "Yusuf branch";
+    std::cout << "Master\n";
 }
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    GetBranch();
+
+    return 0;
 }
